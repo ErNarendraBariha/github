@@ -1,60 +1,21 @@
-# 👋 Hi, I'm [Your Name]!
+# Hi 👋, I'm Narendra Bariha
 
-Welcome to my GitHub! I am a passionate [Your Role, e.g., "Data Scientist", "Software Developer"] with expertise in [Your Key Skills].
+A passionate Data Scientist from India.
 
----
+## Most Used Tools
 
-## 📊 My GitHub Stats
+![Most Used Languages](https://img.shields.io/badge/Jupyter%20Notebook-99.36%25-orange)
+![JavaScript-0.10%](https://img.shields.io/badge/JavaScript-0.10%25-yellow)
+![CSS-0.26%](https://img.shields.io/badge/CSS-0.26%25-purple)
+![HTML-0.09%](https://img.shields.io/badge/HTML-0.09%25-red)
+![Python-0.01%](https://img.shields.io/badge/Python-0.01%25-blue)
 
-### Skills and Tools
-Below is a breakdown of the tools and technologies I use, with the percentage of how often I've used them in my projects:
+## Projects
 
-```mermaid
-graph LR
-  Python[Python 50%] --> Projects
-  SQL[SQL 20%] --> Projects
-  Excel[Excel 15%] --> Projects
-  Tableau[Tableau 10%] --> Projects
-  PowerBI[Power BI 5%] --> Projects
-```
+- 🔭 10+ Data Science Projects
+- 📚 5+ Machine Learning Models
+- 💡 2+ Deep Learning Projects
 
-### Projects Overview
-
-| **Project Name**               | **Description**                                                                 | **Tools Used**               |
-|--------------------------------|---------------------------------------------------------------------------------|-----------------------------|
-| Fraud Detection                | Built a model to detect fraudulent transactions with 99% accuracy               | Python, Scikit-Learn        |
-| EV Sales Analysis              | Analyzed EV sales trends in India and created visualizations                    | SQL, Tableau, Power BI      |
-| Calories Burnt Prediction      | Developed a calorie prediction model using regression techniques                 | Python, Pandas, Matplotlib  |
-| Restaurant Data Analysis       | Identified trends in restaurant data to improve business decision-making         | Python, Seaborn, Pandas     |
-| Music Store SQL Analysis       | Conducted advanced SQL queries to identify sales gaps                           | SQL                         |
-
----
-
-## 🌟 What I Work On
-
-### Languages
-- Python
-- SQL
-- R (beginner)
-
-### Tools and Frameworks
-- Tableau
-- Power BI
-- Scikit-Learn
-- Pandas, NumPy, Matplotlib
-
-### Certifications
-- Six Sigma Black Belt & Green Belt
-- Fraud Detection & Analysis
-- Advanced Excel
-
----
-
-## 🏆 Highlights
-- **15+ projects** completed successfully
-- **Employee of the Year** award in 2023
-- Consistently delivered accurate analyses with actionable insights
-
----
-
-Feel free to connect with me for any collaborations or queries! 🚀
+## Let's Connect!
+- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
