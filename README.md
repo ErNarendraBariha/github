@@ -1,51 +1,58 @@
 # Hi 👋, I'm Narendra Bariha
 
-A passionate Data Scientist from India! I'm deeply interested in **Machine Learning**, **Data Analysis**, and **AI**, and I love working on real-world data problems. I enjoy learning and growing in the data science field and contributing to impactful projects.
+A passionate Data Scientist from India. I specialize in Data Analysis, Machine Learning, and creating impactful solutions through data-driven insights. I’m constantly learning new things, and I love solving complex problems with data.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on improving my **Machine Learning** and **Deep Learning** skills.
-- 🌱 I'm currently learning **advanced machine learning models** and **AI applications**.
-- 💬 Ask me about **Data Science**, **Machine Learning**, **Data Analysis**, and **Python**.
-- 📚 I’m currently pursuing my **MBA in Accounting and Finance** from Golden Gate University.
-- ⚡ Fun fact: I have a passion for **exploring new data** and **solving complex problems** through data analysis.
+- 🔭 I’m currently working on **Data Science projects and Machine Learning models**.
+- 🌱 I’m constantly learning new algorithms and techniques to enhance my skills.
+- 💬 Ask me about **Data Science**, **Machine Learning**, **Fraud Detection**, **SQL**, **Python**, and **AI**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/narendrabariha) | [Email](mailto:your-email@example.com).
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+## 💬 Top Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🖥 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical)
+
+## 🛠️ Wakatime Stats (If using Wakatime)
+
+![Wakatime Stats](https://wakatime.com/share/@your-username/your-wakatime-statistics.svg)
+
+## 📊 Recent Activity
+
+![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react)
+
+## 🎉 Followers Count
+
+![Followers](https://img.shields.io/github/followers/your-username?style=social)
+
+## 👨‍💻 Profile Views
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo)
 
 ## 💼 My Projects
-Here are a few of the projects I have worked on:
 
-### 1. **Fraud Transaction Detection**
-   - Developed a machine learning model to detect fraudulent credit card transactions with 99% accuracy.
-   - [Check out the project on GitHub](https://github.com/yourusername/fraud-transaction-detection)
+Here are a few projects that I've worked on:
 
-### 2. **Calories Burnt Prediction**
-   - Built a calorie burn prediction model using gender, age, height, weight, heart rate, etc.
-   - [Check out the project on GitHub](https://github.com/yourusername/calories-burnt-prediction)
+- **[Restaurant Data Analysis](https://github.com/your-username/restaurant-data-analysis)** - Analyzed sales and customer data to improve business strategies.
+- **[Calories Burnt Prediction](https://github.com/your-username/calories-burnt-prediction)** - Built a predictive model for estimating calories burned based on user parameters.
+- **[Fraud Transaction Detection](https://github.com/your-username/fraud-detection)** - Developed an ML model to detect fraudulent credit card transactions.
 
-### 3. **Restaurant Data Analysis**
-   - Conducted data analysis, feature engineering, and built predictive regression models achieving 98.78% accuracy with XGBoost and 98.81% with Random Forest.
-   - [Check out the project on GitHub](https://github.com/yourusername/restaurant-data-analysis)
+## 📊 Technologies & Tools
+- **Languages:** Python, SQL, R
+- **Data Science Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, XGBoost
+- **Tools:** Jupyter, Git, Docker, VS Code
 
-## 📊 GitHub Stats
-
-![Narendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
-## 📈 GitHub Streak Stats
-
-![Narendra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-## 🔥 GitHub Contribution Graph
-
-![Narendra's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
-
-## 📈 My Achievements
-- **Employee of the Year (2023)** at Bank of America for outstanding performance.
-- **Six Sigma Black Belt** & **Green Belt** certifications.
-- Developed machine learning models achieving **99% accuracy** in fraud detection and prediction tasks.
-
-## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-
-## 📝 Let's Connect
-Feel free to reach out to me if you want to discuss **Data Science**, **Machine Learning**, or any exciting new project ideas!
-
+## 📝 Latest Blog Posts
+- [Understanding Fraud Detection Models](https://your-blog-link.com)
+- [Exploring Machine Learning Algorithms](https://your-blog-link.com)
