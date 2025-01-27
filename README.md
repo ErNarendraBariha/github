@@ -1,46 +1,51 @@
 # Hi 👋, I'm Narendra Bariha
 
-A passionate Data Scientist from India 🌱
-
-I am always excited to dive into new data science challenges, build machine learning models, and help businesses extract actionable insights from data.
+A passionate Data Scientist from India! I'm deeply interested in **Machine Learning**, **Data Analysis**, and **AI**, and I love working on real-world data problems. I enjoy learning and growing in the data science field and contributing to impactful projects.
 
 ## 🚀 About Me
-- 🧠 Data Scientist with hands-on experience in **Machine Learning**, **Data Analysis**, and **Data Visualization**.
-- 💻 Proficient in Python, SQL, Pandas, Matplotlib, Seaborn, and other data science tools.
-- 🔍 Focused on solving complex problems with data and driving business decisions.
-- 🎓 Currently pursuing an MBA in **Accounting and Finance** from Golden Gate University.
+- 🔭 I’m currently working on improving my **Machine Learning** and **Deep Learning** skills.
+- 🌱 I'm currently learning **advanced machine learning models** and **AI applications**.
+- 💬 Ask me about **Data Science**, **Machine Learning**, **Data Analysis**, and **Python**.
+- 📚 I’m currently pursuing my **MBA in Accounting and Finance** from Golden Gate University.
+- ⚡ Fun fact: I have a passion for **exploring new data** and **solving complex problems** through data analysis.
 
-## 📈 GitHub Stats
-![Narendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
+## 💼 My Projects
+Here are a few of the projects I have worked on:
 
-## 🔥 GitHub Streak Stats
-![Narendra's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+### 1. **Fraud Transaction Detection**
+   - Developed a machine learning model to detect fraudulent credit card transactions with 99% accuracy.
+   - [Check out the project on GitHub](https://github.com/yourusername/fraud-transaction-detection)
 
-## 📝 Projects
+### 2. **Calories Burnt Prediction**
+   - Built a calorie burn prediction model using gender, age, height, weight, heart rate, etc.
+   - [Check out the project on GitHub](https://github.com/yourusername/calories-burnt-prediction)
 
-Here are some of my recent projects:
+### 3. **Restaurant Data Analysis**
+   - Conducted data analysis, feature engineering, and built predictive regression models achieving 98.78% accuracy with XGBoost and 98.81% with Random Forest.
+   - [Check out the project on GitHub](https://github.com/yourusername/restaurant-data-analysis)
 
-### 🛠️ Data Science Projects:
-1. **[Restaurant Data Analysis](https://github.com/your-username/project1)**: Conducted data analysis and built predictive models to help restaurants enhance customer satisfaction.
-2. **[Calories Burnt Prediction](https://github.com/your-username/project2)**: Built a calorie burn prediction model using machine learning.
-3. **[Fraud Transaction Detection](https://github.com/your-username/project3)**: Developed a machine learning model to detect fraudulent credit card transactions with 99% accuracy.
-4. **[Electric Vehicle Sales Analysis](https://github.com/your-username/project4)**: Analyzed EV sales and penetration rates in India, focusing on growth trends and revenue estimates.
-   
-### 🔧 Tools & Technologies I Use:
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- SQL, MySQL, PostgreSQL
-- Git & GitHub
-- Jupyter Notebooks
+## 📊 GitHub Stats
 
-## 📈 GitHub Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Narendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
-## 📫 How to reach me:
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🌐 Portfolio: [your-portfolio](https://your-portfolio-link.com)
-- 📱 Twitter: [@your-twitter](https://twitter.com/your-twitter)
+## 📈 GitHub Streak Stats
 
----
+![Narendra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
-Feel free to explore my repositories and let me know if you have any questions or collaborations in mind. 😄
+## 🔥 GitHub Contribution Graph
+
+![Narendra's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
+
+## 📈 My Achievements
+- **Employee of the Year (2023)** at Bank of America for outstanding performance.
+- **Six Sigma Black Belt** & **Green Belt** certifications.
+- Developed machine learning models achieving **99% accuracy** in fraud detection and prediction tasks.
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
+- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+
+## 📝 Let's Connect
+Feel free to reach out to me if you want to discuss **Data Science**, **Machine Learning**, or any exciting new project ideas!
+
