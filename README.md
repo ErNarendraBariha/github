@@ -11,6 +11,17 @@ A passionate Data Scientist from India. I specialize in Data Analysis, Machine L
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/narendrabariha) | [Email](mailto:your-email@example.com)
 
 ---
+| <a href="https://github.com/ErNarendraBariha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErNarendraBariha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Narendra's GitHub stats" /></a> | <a href="https://github.com/ErNarendraBariha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErNarendraBariha&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/ErNarendraBariha/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErNarendraBariha&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/ErNarendraBariha/ErNarendraBariha.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErNarendraBariha&repo=ErNarendraBariha.github.io&theme=buefy" />
+</a>
 
 ## 📊 GitHub Stats
 
