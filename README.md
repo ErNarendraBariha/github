@@ -1,21 +1,27 @@
-# Hi 👋, I'm Narendra Bariha
-
-A passionate Data Scientist from India.
-
-## Most Used Tools
-
-![Most Used Languages](https://img.shields.io/badge/Jupyter%20Notebook-99.36%25-orange)
-![JavaScript-0.10%](https://img.shields.io/badge/JavaScript-0.10%25-yellow)
-![CSS-0.26%](https://img.shields.io/badge/CSS-0.26%25-purple)
-![HTML-0.09%](https://img.shields.io/badge/HTML-0.09%25-red)
-![Python-0.01%](https://img.shields.io/badge/Python-0.01%25-blue)
-
-## Projects
-
-- 🔭 10+ Data Science Projects
-- 📚 5+ Machine Learning Models
-- 💡 2+ Deep Learning Projects
-
-## Let's Connect!
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" alt="Matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" alt="Matlab" width="40" height="40"/>
+  </a>
+</p>
