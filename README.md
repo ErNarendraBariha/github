@@ -10,11 +10,11 @@ A passionate Data Scientist from India. I specialize in Data Analysis, Machine L
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErNarendraBariha&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErNarendraBariha&theme=radical)
 
 ## 💬 Top Languages Used
 
@@ -22,7 +22,7 @@ A passionate Data Scientist from India. I specialize in Data Analysis, Machine L
 
 ## 🖥 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErNarendraBariha&theme=radical)
 
 ## 🛠️ Wakatime Stats (If using Wakatime)
 
@@ -30,7 +30,7 @@ A passionate Data Scientist from India. I specialize in Data Analysis, Machine L
 
 ## 📊 Recent Activity
 
-![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react)
+![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ErNarendraBariha&theme=react)
 
 ## 🎉 Followers Count
 
